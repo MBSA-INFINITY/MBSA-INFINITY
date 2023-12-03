@@ -10,14 +10,14 @@ As a backend web developer with three years of experience, I have honed my exper
 
 ### Work Experience
 
-[<img align="left" height="70px" width="100px" alt="KPN" src="./assets/greyfeathers.png"/>](https://www.greyfeathers.in/)
+[<img align="left" height="70px" width="100px" alt="Greyfeathers" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/4f5592c4-2d9c-4a06-ad28-6b92e29b1103"/>](https://www.greyfeathers.in/)
 
 **Backend Developer** \
 [**Greyfeathers pvt ltd.**](https://www.kpn.com/) • Internship \
 Languages & Technologies: `Python`, `FastAPI`, `MongoDB`, `AWS`, `GCP` \
 <br/>
 
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="./assets/sangyan.jpg"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="100px" alt="Sangyan" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/ca59b28c-feb8-4f46-80cc-2d8a87cfdee8"/>](https://warpnet.nl/)
 
 **Lead Web Developer** \
 [**Sangyan (Chhattisgarh State Police)**](https://warpnet.nl/) • Government Project \
@@ -25,7 +25,7 @@ Languages & Technologies: `Python`, `Flask`, `Firebase`, `JavaScript`, `AppScrip
 
 <br/>
 
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="./assets/iet.jpg"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="100px" alt="IET NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/473ddfe0-0420-4c50-ad76-5908acf0b34a"/>](https://warpnet.nl/)
 
 **Webmaster** \
 [**IET NITK**](https://iet.nitk.ac.in/) • Core Club Member \
@@ -33,7 +33,7 @@ Languages & Technologies: `ReactJS`, `Gatsby`, `Python`, `API`, `Cloud Functions
 
 <br/>
 
-[<img align="left" height="80px" width="100px" alt="Dienst Uitvoering Onderwijs (DUO)" src="./assets/nitk.jpg"/>](https://duo.nl/)
+[<img align="left" height="80px" width="100px" alt="NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/dcbab527-0601-4960-b6db-98a299f1e7c6"/>](https://duo.nl/)
 
 **Summer Research Intern** \
 [**MACS, NITK**](https://macs.nitk.ac.in/) • Internship \
