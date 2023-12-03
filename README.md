@@ -17,15 +17,15 @@ As a backend web developer with three years of experience, I have honed my exper
 Languages & Technologies: `Python`, `FastAPI`, `MongoDB`, `AWS`, `GCP` \
 <br/>
 
-[<img align="left" height="94px" width="100px" alt="Sangyan" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/ca59b28c-feb8-4f46-80cc-2d8a87cfdee8"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="100px" alt="Sangyan" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/ca59b28c-feb8-4f46-80cc-2d8a87cfdee8"/>](https://mbsaiaditya.in/)
 
 **Lead Web Developer** \
-[**Sangyan (Chhattisgarh State Police)**](https://warpnet.nl/) • Government Project \
+[**Sangyan (Chhattisgarh State Police)**](https://mbsaiaditya.in/) • Government Project \
 Languages & Technologies: `Python`, `Flask`, `Firebase`, `JavaScript`, `AppScript`
 
 <br/>
 
-[<img align="left" height="94px" width="100px" alt="IET NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/473ddfe0-0420-4c50-ad76-5908acf0b34a"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="100px" alt="IET NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/473ddfe0-0420-4c50-ad76-5908acf0b34a"/>](https://iet.nitk.ac.in/)
 
 **Webmaster** \
 [**IET NITK**](https://iet.nitk.ac.in/) • Core Club Member \
@@ -33,7 +33,7 @@ Languages & Technologies: `ReactJS`, `Gatsby`, `Python`, `API`, `Cloud Functions
 
 <br/>
 
-[<img align="left" height="80px" width="100px" alt="NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/dcbab527-0601-4960-b6db-98a299f1e7c6"/>](https://duo.nl/)
+[<img align="left" height="80px" width="100px" alt="NITK" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/dcbab527-0601-4960-b6db-98a299f1e7c6"/>](https://macs.nitk.ac.in/)
 
 **Summer Research Intern** \
 [**MACS, NITK**](https://macs.nitk.ac.in/) • Internship \
