@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mbsaiaditya-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mbsaiaditya@gmail.com)
 
 
-As a backend web developer with three years of experience, I have honed my expertise in server-side programming and database management. I am well-versed in languages such as **Python** and J**avascript** and have extensive experience in developing and maintaining complex web applications using `Flask`, `Django` and `FastAPI`. My ability to work efficiently and effectively as part of a team has allowed me to collaborate on numerous successful projects, delivering high-quality software on time and within budget. I love developing solutions for real-world problems and want to build a career in development.
+As a backend web developer with three years of experience, I have honed my expertise in server-side programming and database management. I am well-versed in languages such as **Python** and **Javascript** and have extensive experience in developing and maintaining complex web applications using `Flask`, `Django` and `FastAPI`. My ability to work efficiently and effectively as part of a team has allowed me to collaborate on numerous successful projects, delivering high-quality software on time and within budget. I love developing solutions for real-world problems and want to build a career in development.
 
 ### Work Experience
 
