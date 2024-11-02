@@ -10,6 +10,13 @@ As a backend web developer with three years of experience, I have honed my exper
 
 ### Work Experience
 
+[<img align="left" height="70px" width="100px" alt="Verint CES" src="https://verint.imgix.net/wp-content/uploads/verint-systems-600.png"/>](https://www.greyfeathers.in/)
+
+**Software Development Engineer** \
+[**Verint CES India PVT LTD**](https://www.verint.com/) • Full - Time \
+Languages & Technologies: `JAVA`, `SpringBoot`, `Jenkins`, `DataDog`, `Coverity` \
+<br/>
+
 [<img align="left" height="70px" width="100px" alt="Greyfeathers" src="https://github.com/MBSA-INFINITY/MBSA-INFINITY/assets/85332648/4f5592c4-2d9c-4a06-ad28-6b92e29b1103"/>](https://www.greyfeathers.in/)
 
 **Backend Developer** \
